@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment1_actv2">
+    tools:context=".Fragment1_actv2">
 
     <!-- TODO: Update blank fragment layout -->
 
@@ -20,5 +20,6 @@
     <ListView
         android:id="@+id/list_paises"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:entries="@array/list_paises_act2" />
 </FrameLayout>

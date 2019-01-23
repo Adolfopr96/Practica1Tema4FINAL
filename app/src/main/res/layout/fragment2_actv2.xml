@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment2_actv2">
+    tools:context=".Fragment2_actv2">
 
     <!-- TODO: Update blank fragment layout -->
 
@@ -20,5 +20,6 @@
     <ListView
         android:id="@+id/list_capitales"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:entries="@array/list_capitales_atc2" />
 </FrameLayout>

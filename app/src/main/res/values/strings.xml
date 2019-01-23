@@ -23,7 +23,7 @@
     <string name="pais6">BAHAMAS</string>
     <string name="pais7">BULGARIA</string>
     <string name="pais8">ESTONIA</string>
-    <string name="pais9">JORNDANIA</string>
+    <string name="pais9">JORDANIA</string>
     <string name="pais10">LIBIA</string>
     <string name="capital1">MADRID</string>
     <string name="capital2">PARÍS</string>
@@ -36,6 +36,35 @@
     <string name="capital9">AMÁN</string>
     <string name="capital10">TRÍPOLI</string>
     <string name="btn_verificar_act2">VERIFICAR</string>
+    <string name="btn1_act4">PUBG</string>
+    <string name="btn2_act4">FIFA 19</string>
+    <string name="btn3_act4">PRO 19</string>
+    <string name="btn4_act4">COD BO4</string>
+
+    <array name="list_paises_act2">
+        <item>ESPAÑA</item>
+        <item>FRANCIA</item>
+        <item>PORTUGAL</item>
+        <item>ITALIA</item>
+        <item>ALEMANIA</item>
+        <item>BAHAMAS</item>
+        <item>BULGARIA</item>
+        <item>ESTONIA</item>
+        <item>JORDANIA</item>
+        <item>LIBIA</item>
+    </array>
+    <array name="list_capitales_atc2">
+        <item>MADRID</item>
+        <item>PARÍS</item>
+        <item>LISBOA</item>
+        <item>ROMA</item>
+        <item>BERLÍN</item>
+        <item>NASÁU</item>
+        <item>SOFÍA</item>
+        <item>AMÁN</item>
+        <item>TRÍPOLI</item>
+    </array>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
