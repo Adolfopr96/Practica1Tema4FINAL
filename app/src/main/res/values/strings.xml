@@ -1,2 +1,12 @@
 <resources>
+    <string name="app_name">Practica del tema 4</string>
+    <string name="desc_img_main">Imagen del videojuego pubg.</string>
+    <string name="btn1_main">Números primos</string>
+    <string name="btn2_main">Juego de aciertos</string>
+    <string name="btn3_main">Desplazando imágenes</string>
+    <string name="btn4_main">Seleccionando imágenes</string>
+    <string name="name_activity1">Números primos</string>
+    <string name="name_activity2">Juego de aciertos</string>
+    <string name="name_activity3">Desplazando imágenes</string>
+    <string name="name_activity4">Seleccionando imágenes</string>
 </resources>

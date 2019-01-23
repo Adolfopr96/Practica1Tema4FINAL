@@ -16,6 +16,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Activity_numeros_primos"
+            android:label="@string/name_activity1" />
+        <activity
+            android:name=".Activity_juego_aciertos"
+            android:label="@string/name_activity2" />
+        <activity
+            android:name=".Activity_desplazando_imagenes"
+            android:label="@string/name_activity3" />
+        <activity
+            android:name=".Activity_seleccionando_imagenes"
+            android:label="@string/name_activity4" />
     </application>
-
 </manifest>
